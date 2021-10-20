@@ -1,4 +1,4 @@
 #GitHW_repo readme
 #Changes
 #More changes
-Awesome! Now has greetings
+Awesome! Now has awesome greetings
